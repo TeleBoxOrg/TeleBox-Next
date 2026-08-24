@@ -78,7 +78,7 @@
   },
   "devDependencies": {
     "@types/archiver": "^8.0.0",
-    "@types/better-sqlite3": "^7.6.13",
+    "@types/better-sqlite3": "^9.6.0",
     "@types/big-integer": "^0.0.35",
     "@types/cron": "^2.0.1",
     "@types/js-yaml": "^4.0.9",
