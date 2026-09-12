@@ -87,6 +87,6 @@
     "@types/node": "^26.1.1",
     "@types/opencc-js": "^1.0.3",
     "@types/qrcode-terminal": "^0.12.2",
-    "vitest": "^4.1.8"
+    "vitest": "^5.0.0"
   }
 }
