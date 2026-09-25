@@ -52,7 +52,7 @@
     "cheerio": "^1.2.0",
     "cron": "^4.3.3",
     "dayjs": "^1.11.21",
-    "dotenv": "^17.2.2",
+    "dotenv": "^18.0.0",
     "emoji-db": "^16.0.1",
     "http-proxy-agent": "^9.1.0",
     "https-proxy-agent": "^9.1.0",
